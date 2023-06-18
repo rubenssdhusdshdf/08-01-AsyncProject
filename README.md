@@ -14,4 +14,4 @@ Some tools useful in this project were
 In this project I practiced 
 
 - Asyncronism JavaScript
-= API consume
+- API consume
