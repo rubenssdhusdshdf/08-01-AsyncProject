@@ -6,9 +6,9 @@ The scope of this project is do a call to an API on order to return dinamycally 
 
 For that purpose I fetched the last video uploaded in the Ariana Grande's YouTube Channel and customized the page with her details and short overview of her career.
 
-Some tools were useful in this project were
+Some tools useful in this project were
 
--VSC Live Server pluggin
+- VSC Live Server pluggin
 - Rapid API 
 
 In this project I practiced 
