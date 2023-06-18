@@ -7,3 +7,4 @@ The scope of this project is do a call to an API on order to return dinamycally 
 Other tools
 
 - VSC Live Server pluggin
+- https://rapidapi.com/hub
